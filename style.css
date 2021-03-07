@@ -1,0 +1,23 @@
+/*Mila Rosiane dos Anjos Assone Ra: 7155146*/
+body{
+    background-color: cyan;
+}
+h1 {
+    background-color: aqua;
+    text-align: center;
+
+}
+
+#bord {
+    text-align: center;
+    background-color: pink;
+}
+
+.imagem {
+    border-radius: 50%;
+}
+
+p{
+    font-family: times new roman;
+    color: gray;
+}
